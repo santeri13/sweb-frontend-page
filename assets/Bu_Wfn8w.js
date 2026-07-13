@@ -1,1 +1,0 @@
-import{a4 as s}from"./B5-mgt0x.js";const a=s("messages",{state:()=>({current_place_id:0,place_type:"",buisness_id:0}),actions:{setCurrentPlaceId(e){this.current_place_id=e},setPlaceType(e){this.place_type=e},setBuisnessId(e){this.buisness_id=e}}});export{a as u};
