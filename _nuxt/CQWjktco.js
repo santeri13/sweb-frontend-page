@@ -1,0 +1,1 @@
+import{a4 as e}from"./lC8UCGVC.js";const a=e("bucket",{state:()=>({bucket:{hotels:[],restaurants:[],attractions:[]},reservationCode:""}),actions:{setHotel(t){this.bucket.hotels.push(t)},setRestaurant(t){this.bucket.restaurants.push(t)},setAttraction(t){this.bucket.attractions.push(t)},setReservationCode(t){this.reservationCode=t}}});export{a as u};
