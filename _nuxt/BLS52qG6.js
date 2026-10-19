@@ -1,0 +1,1 @@
+import{O as a,P as s,E as t,l as e,Q as o,K as r,z as u,D as l,R as c}from"./Bd_Wue29.js";const m={__name:"index",setup(_){const n=r();return a(()=>{n.replace({name:"login",query:{mode:"business"}})}),(i,p)=>(u(),s(e(o),null,{default:t(()=>[l(e(c),{fullscreen:!0})]),_:1}))}};export{m as default};
