@@ -1,0 +1,1 @@
+import{H as a,I as s,F as t,l as e,J as o,K as r,A as u,E as l,L as c}from"./T628mHsa.js";const m={__name:"index",setup(_){const n=r();return a(()=>{n.replace({name:"login",query:{mode:"business"}})}),(i,p)=>(u(),s(e(o),null,{default:t(()=>[l(e(c),{fullscreen:!0})]),_:1}))}};export{m as default};
