@@ -1,0 +1,1 @@
+import{H as n,I as a,F as t,l as e,J as r,K as o,A as u,E as c,L as l}from"./DXhahiNx.js";const m={__name:"signup",setup(p){const s=o();return n(()=>{s.replace({name:"signup",query:{mode:"business"}})}),(_,i)=>(u(),a(e(r),null,{default:t(()=>[c(e(l),{fullscreen:!0})]),_:1}))}};export{m as default};
